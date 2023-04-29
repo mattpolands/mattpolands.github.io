@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Cornerstones
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Regression](/sample_page)
+<img src="images/Linearreg%20png.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Classification](/pdf/sample_presentation.pdf)
+<img src="images/Classification png.png?raw=true"/>
+
+---
+[Clustering](http://example.com/)
+<img src="images/Clustering png.png?raw=true"/>
+
+---
+[Neural Nets](http://example.com/)
+<img src="images/Neural Net png.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Additional Work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Gists](https://gist.github.com/mattpolands)
 
 ---
 
