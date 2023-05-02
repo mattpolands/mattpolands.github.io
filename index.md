@@ -5,19 +5,19 @@
 ### Cornerstones
 
 [Regression](/sample_page)
-<img src="images/Linearreg%20png.png?raw=true"/>
+<img src="images/Linearreg%20png.png?raw=true" width="200" height="200"/>
 
 ---
 [Classification](/pdf/sample_presentation.pdf)
-<img src="images/Classification png.png?raw=true"/>
+<img src="images/Classification png.png?raw=true" width="200" height="200"/>
 
 ---
 [Clustering](http://example.com/)
-<img src="images/Clustering png.png?raw=true"/>
+<img src="images/Clustering png.png?raw=true" width="200" height="200"/>
 
 ---
 [Neural Nets](http://example.com/)
-<img src="images/Neural Net png.png?raw=true"/>
+<img src="images/Neural Net png.png?raw=true" width="200" height="200"/>
 
 ---
 
