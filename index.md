@@ -8,7 +8,7 @@
 <img src="images/Linearreg%20png.png?raw=true" width="200" height="200"/>
 
 ---
-[Classification](/pdf/sample_presentation.pdf)
+[Classification](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)
 <img src="images/Classification png.png?raw=true" width="200" height="200"/>
 
 ---
