@@ -2,6 +2,9 @@
 
 ---
 
+### My Notes
+[Cluster Analysis in Python](PDFs of my notes/Cluster Analysis in Python.pdf)
+
 ### Cornerstones
 
 [Regression](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)
