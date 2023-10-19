@@ -1,5 +1,5 @@
 title: Matt Poland # your name (or website title) here
-logo: "/images/ProfilePicture.jpg?raw=true" width="250" height="250 # your photo (or logo) here
+logo: <img src="images/ProfilePicture.jpg?raw=true" width="250" height="250 /> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Data Scientist 
@@ -17,4 +17,3 @@ plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
-<img src="images/Classification png.png?raw=true" width="200" height="200"/>
