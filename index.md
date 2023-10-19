@@ -3,7 +3,34 @@
 ---
 
 ### My Notes
+[Geospatial Data in Python](PDFs of my notes/Working with Geospatial Data in Python.pdf)
+[Extreme Gradient Boosting with XGBoost](PDFs of my notes/Extreme Gradient Boosting with XGBoost.pdf)
 [Cluster Analysis in Python](PDFs of my notes/Cluster Analysis in Python.pdf)
+[Linear Classifiers in Python](PDFs of my notes/Linear Classifiers in Python.pdf)
+[Decision Tree for Classification](PDFs of my notes/Decision tree for classification.pdf)
+[Sampling in Python](PDFs of my notes/Sampling in Python.pdf)
+[Hypothesis Testing using Python](PDFs of my notes/Hypothesis Testing in Python.pdf)
+[Unsupervised Learning](PDFs of my notes/Unsupervised learning.pdf)
+[Supervised Learning with scikit](PDFs of my notes/Supervised learning with scikit-learn.pdf)
+[Intermediate Regression with statsmodels](PDFs of my notes/Intermediate Regression with statsmodel.pdf)
+[Introduction to Regression with statsmodels](PDFs of my notes/Introduction to Regression with statsmodels in Python.pdf)
+[Working with Categorical Data in Python](PDFs of my notes/Working with Categorical Data in Python.pdf)
+[Dates and Times in Python](PDFs of my notes/Dates and Times in Python.pdf)
+[Git](PDFs of my notes/Git.pdf)
+[Intermediate Seaborn](PDFs of my notes/Intermediate Seaborn.pdf)
+[matplotlib](PDFs of my notes/matplotlib.pdf)
+[Exploratory Data Analysis using Python](PDFs of my notes/Exploratory Data Analysis.pdf)
+[Cleaning Data with Python](PDFs of my notes/Cleaning Data in Python.pdf)
+[Importing Data with Python](PDFs of my notes/Importing data with Python.pdf)
+[Data Communication Concepts](PDFs of my notes/Data Communication Concepts.pdf)
+[Writing Efficient Python Code](PDFs of my notes/Writing Efficient Python Code.pdf)
+[Writing Functions in Python](PDFs of my notes/Writing Functions in Python.pdf)
+[Python Data Science Toolbox](PDFs of my notes/Python Data Science Toolbox.pdf)
+[Data Types for Data Science within Python](PDFs of my notes/Data Types for Data Science in Python.pdf)
+[Statistics](PDFs of my notes/Statistics.pdf)
+[Odds Ratio](PDFs of my notes/Odds Ratio.pdf)
+[Confidence Intervals](PDFs of my notes/Confidence Intervals.pdf)
+[Rsquared](PDFs of my notes/Rsquared.pdf)
 
 ### Cornerstones
 
