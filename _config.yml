@@ -1,6 +1,6 @@
 title: Matt Poland # your name (or website title) here
-logo: <img src="/images/ProfilePicture.jpg?raw=true" width="250" height="250 /> # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/ProfilePicture.jpg?raw=true" # your photo (or logo) here
+description: # your text below (remove <br> elements if you don't need line breaks)
   
   
   <br><br>
