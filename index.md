@@ -2,6 +2,37 @@
 
 ---
 
+### Keystone Projects
+
+*Dementia Prediction*  
+-[View via GitHub/Colab](https://github.com/mattpolands/Dementia-Prediction/blob/main/DementiaPrediction.ipynb)  
+-[View via ipynb file viewer](Keystone Projects/DementiaPrediction.ipynb - Colaboratory.pdf)  
+
+*Global Burden of Disease*  
+-[View via GitHub/Colab](https://github.com/mattpolands/GlobalBurdenDisease/blob/main/GlobalBurdenofDisease.ipynb)  
+-[View via ipynb file viewer](Keystone Projects/GlobalBurdenof Disease.ipynb - Colaboratory.pdf)  
+
+---
+
+### Cornerstones
+
+<img src="images/Linearreg%20png.png?raw=true" width="200" height="200"/>
+[Regression](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)
+
+---
+<img src="images/Classification png.png?raw=true" width="200" height="200"/>
+[Classification](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)
+
+---
+<img src="images/Clustering png.png?raw=true" width="200" height="200"/>
+[Clustering](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)
+
+---
+<img src="images/Neural Net png.png?raw=true" width="200" height="200"/>
+[Neural Nets](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)
+
+---
+
 ### My Notes
 -[Geospatial Data in Python](PDFs of my notes/Working with Geospatial Data in Python.pdf)   
 -[Extreme Gradient Boosting with XGBoost](PDFs of my notes/Extreme Gradient Boosting with XGBoost.pdf)  
@@ -30,28 +61,13 @@
 -[Statistics](PDFs of my notes/Statistics.pdf)  
 -[Odds Ratio](PDFs of my notes/Odds Ratio.pdf)  
 -[Confidence Intervals](PDFs of my notes/Confidence Intervals.pdf)  
--[Rsquared](PDFs of my notes/Rsquared.pdf)  
-
-### Cornerstones
-
-[Regression](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)
-<img src="images/Linearreg%20png.png?raw=true" width="200" height="200"/>
-
----
-[Classification](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)
-<img src="images/Classification png.png?raw=true" width="200" height="200"/>
-
----
-[Clustering](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)
-<img src="images/Clustering png.png?raw=true" width="200" height="200"/>
-
----
-[Neural Nets](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)
-<img src="images/Neural Net png.png?raw=true" width="200" height="200"/>
+-[Rsquared](PDFs of my notes/Rsquared.pdf) 
 
 ---
 
 ### My Resume
+
+[Matthew Poland's Resume](Portfolio Resume.pdf)
 
 ---
 
