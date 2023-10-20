@@ -1,8 +1,6 @@
-title: Matt Poland # your name (or website title) here
-logo: "/images/ProfilePicture.jpg?raw=true"  # your photo (or logo) here
-description: # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
-  Data Scientist, Physician Assistant
+title: Matt Poland  
+logo: "/images/ProfilePicture.jpg?raw=true"  
+description: Data Scientist, Physician Assistant  
   <br><br>
  + <a href="https://www.linkedin.com/in/polandmatt/">My LinkedIn Profile</a><br>
  + <a href="https://gist.github.com/mattpolands/">My GitHub Gists</a><br>  
