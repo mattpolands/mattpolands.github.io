@@ -1,14 +1,12 @@
 title: Matt Poland # your name (or website title) here
-logo: <img src="/images/ProfilePicture.jpg" alt="ProfilePicture" width="100" height="100">  # your photo (or logo) here
+logo: <img src="/images/ProfilePicture.jpg?raw=true" alt="ProfilePicture" width="100" height="100">  # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
-  
   <br><br>
-  Data Scientist,   
-  Physician Assistant
+  Data Scientist, Physician Assistant
   <br><br>
-  <a href="https://www.linkedin.com/in/polandmatt/">My LinkedIn Profile</a>   
-  <a href="https://gist.github.com/mattpolands/">My GitHub Gists</a>  
-  <a href="https://www.datacamp.com/portfolio/matthewdpoland/">My datacamp Profile</a>  
+ * <a href="https://www.linkedin.com/in/polandmatt/">My LinkedIn Profile</a>  
+ * <a href="https://gist.github.com/mattpolands/">My GitHub Gists</a>  
+ * <a href="https://www.datacamp.com/portfolio/matthewdpoland/">My datacamp Profile</a>  
   
 
 
