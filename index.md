@@ -10,25 +10,25 @@
 
 *Global Burden of Disease*  
 -[View via GitHub/Colab](https://github.com/mattpolands/GlobalBurdenDisease/blob/main/GlobalBurdenofDisease.ipynb)  
--[View via ipynb file viewer](Keystone Projects/GlobalBurdenof Disease.ipynb - Colaboratory.pdf)  
+-[View via ipynb file viewer](Keystone Projects/GlobalBurdenofDisease.ipynb - Colaboratory.pdf)  
 
 ---
 
 ### Cornerstones
 
-<img src="images/Linearreg%20png.png?raw=true" width="200" height="200"/>
+<img src="images/Linearreg%20png.png?raw=true" width="200" height="200"/><br>
 [Regression](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)
 
 ---
-<img src="images/Classification png.png?raw=true" width="200" height="200"/>
+<img src="images/Classification png.png?raw=true" width="200" height="200"/><br>
 [Classification](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)
 
 ---
-<img src="images/Clustering png.png?raw=true" width="200" height="200"/>
+<img src="images/Clustering png.png?raw=true" width="200" height="200"/><br>
 [Clustering](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)
 
 ---
-<img src="images/Neural Net png.png?raw=true" width="200" height="200"/>
+<img src="images/Neural Net png.png?raw=true" width="200" height="200"/><br>
 [Neural Nets](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)
 
 ---
