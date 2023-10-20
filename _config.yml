@@ -1,5 +1,5 @@
 title: Matt Poland # your name (or website title) here
-logo: ![Profile Picture](/images/ProfilePicture.jpg)  # your photo (or logo) here
+logo: "/images/ProfilePicture.jpg?raw=true"  # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Data Scientist, Physician Assistant
