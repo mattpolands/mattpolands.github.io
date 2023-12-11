@@ -101,6 +101,13 @@
 
 ---
 ### Certifications
+[Practical Apache Pulsar Application Development](Certifications/Stream Native DEV-200 Certificate.pdf)  
+[Data Scientist with Python](Certifications/Data Scientist with Python.pdf)  
+[Python for Data Science and Machine Learning](Certifications/Python for Data Science with Pierian.pdf)  
+[Data Analyst with Python](Certifications/certificate.pdf)  
+[Complete SQL](Certifications/Complete SQL.pdf)
+[Math for Data Science Masterclass](Certifications/Matt for Data Science.pdf)  
+
 
 
 
