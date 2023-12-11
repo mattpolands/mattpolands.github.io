@@ -16,25 +16,34 @@
 
 ### Prediction Models
 
-<img src="images/Linearreg%20png.png?raw=true" width="200" height="200"/><br>
+<img src="images/Linearreg%20png.png?raw=true" width="100" height="100"/><br>
 #### Regression
-[Housing Data with scikit](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)  
-[Housing Data with Keras](https://gist.github.com/mattpolands/846a338e2d705baeac3346ce8dae73e3)
+[Housing Data with linear model using scikit](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)  
+[Housing Data with Keras](https://gist.github.com/mattpolands/846a338e2d705baeac3346ce8dae73e3)  
+[Advertising Data with logistic model using scikit](https://gist.github.com/mattpolands/6125d2ca2d324888142d2f21f130bc64)  
+[Ecommerce with linear model using scikit](https://gist.github.com/mattpolands/39f9a2489abf04c8419c28579042852e)
 
 ---
 <img src="images/Classification png.png?raw=true" width="100" height="100"/><br>
 #### Classification
-[Cancer Data with Keras](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)
+[Cancer Data with Keras](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)  
+[Breast Cancer Data with SVM using scikit](https://gist.github.com/mattpolands/a857b23805e38bfd67fd94dda10723d1)  
+[Kyphosis Data with decision trees and random forest using scikit](https://gist.github.com/mattpolands/b2910bd33579b213de2f9a9673321e36)  
+[Loan Data with decision trees and random forest using scikit](https://gist.github.com/mattpolands/13fa7d2d8e6195c41ee9b29cef2897dd)
 
 ---
 <img src="images/Clustering png.png?raw=true" width="100" height="100"/><br>
 #### Clustering
-[Breast Cancer](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)
+[Breast Cancer Data with PCA using scikit](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)    
+[Subjective Target Class Find with KNN using scikit](https://gist.github.com/mattpolands/cd3339d0a503d53a2d5c1d4c6b131405)  
+[Easy Make_blobs with Kmeans using scikit](https://gist.github.com/mattpolands/032a504e81265bc03d665d07aed3f0b6)  
 
 ---
 <img src="images/Neural Net png.png?raw=true" width="100" height="100"/><br>
 #### Neural Networks
-[Diabetes](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)
+[Diabetes with forward feed neural network](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)  
+[Classic MNIST Image Processing with Tensorflow](https://gist.github.com/mattpolands/19a0e2baba1d3d585a29c01d47b64274)
+[MNIST with CNN and RMSProp](https://gist.github.com/mattpolands/a89b80118372c7e40a003de53a109a5a)
 
 ---
 
@@ -43,10 +52,16 @@
 - [Feature Engineering - 911 Emergency Log](https://gist.github.com/mattpolands/59580bee362ff640c8856e56d7cc732a)
 - [Feature Engineering - Lending Club Info](https://gist.github.com/mattpolands/8a6d1000693d3a445c103e029417cd29)
 - [Natural Language Processing - Spam Collector](https://gist.github.com/mattpolands/b03551b5255967ff567ef427da47b585)
+- [Natural Language Processing - Yelp](https://gist.github.com/mattpolands/f735b98d357efbfe3b14c275d14289a7)  
 - [Recommender Systems - Movies](https://gist.github.com/mattpolands/d63781dbf72be44b573911f5c63fe408)
 - [OpenAI - Recipe Creator](https://gist.github.com/mattpolands/99fcc86f2e98a1b6b63d034d4ab72751)
 - [OpenAI - NLP to SQL](https://gist.github.com/mattpolands/9c50a0349b417b15116be0d198533acb)
 - [OpenAI - Auto Exam Generator](https://gist.github.com/mattpolands/b67ed3ac726ef47fb53c83d6456bd5cb)
+- [Plotly and Cufflinks](https://gist.github.com/mattpolands/c502fb6ca48cedbf19a7ef4becd0d85d)  
+- [US Agriculture Exports with Choropleths maps](https://gist.github.com/mattpolands/921ba88682cc0ed3b9ff4e81cea101e9)  
+- [Visualizing regression plots with seaborn](https://gist.github.com/mattpolands/d14d7a3bb1e0bc20d1549dffa87938af)  
+- [Visualizing dataframes with pandas built-in visualizations](https://gist.github.com/mattpolands/4483646d8d7eff2f831ce6d66b3f03c1)
+- [Meshgrid using NumPy](https://gist.github.com/mattpolands/64f154f60acd4942e14e882062edbfd8)
 
 ---
 ### My Notes
