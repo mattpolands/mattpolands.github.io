@@ -100,6 +100,10 @@
 - [Rsquared](PDFs of my notes/Rsquared.pdf) 
 
 ---
+### My Resume
+[Resume](Matthew Poland's Data Science Resume.pdf)
+
+---
 ### Certifications
 [Practical Apache Pulsar Application Development](Certifications/Stream Native DEV-200 Certificate.pdf)  
 [Data Scientist with Python](Certifications/Data Scientist with Python.pdf)  
