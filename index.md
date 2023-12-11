@@ -14,25 +14,41 @@
 
 ---
 
-### Cornerstones
+### Prediction Models
 
 <img src="images/Linearreg%20png.png?raw=true" width="200" height="200"/><br>
-[Regression](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)
+#### Regression
+[Housing Data with scikit](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)  
+[Housing Data with Keras](https://gist.github.com/mattpolands/846a338e2d705baeac3346ce8dae73e3)
 
 ---
-<img src="images/Classification png.png?raw=true" width="200" height="200"/><br>
-[Classification](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)
+<img src="images/Classification png.png?raw=true" width="100" height="100"/><br>
+#### Classification
+[Cancer Data with Keras](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)
 
 ---
-<img src="images/Clustering png.png?raw=true" width="200" height="200"/><br>
-[Clustering](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)
+<img src="images/Clustering png.png?raw=true" width="100" height="100"/><br>
+#### Clustering
+[Breast Cancer](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)
 
 ---
-<img src="images/Neural Net png.png?raw=true" width="200" height="200"/><br>
-[Neural Nets](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)
+<img src="images/Neural Net png.png?raw=true" width="100" height="100"/><br>
+#### Neural Networks
+[Diabetes](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)
 
 ---
 
+### Additional Work
+
+- [Feature Engineering - 911 Emergency Log](https://gist.github.com/mattpolands/59580bee362ff640c8856e56d7cc732a)
+- [Feature Engineering - Lending Club Info](https://gist.github.com/mattpolands/8a6d1000693d3a445c103e029417cd29)
+- [Natural Language Processing - Spam Collector](https://gist.github.com/mattpolands/b03551b5255967ff567ef427da47b585)
+- [Recommender Systems - Movies](https://gist.github.com/mattpolands/d63781dbf72be44b573911f5c63fe408)
+- [OpenAI - Recipe Creator](https://gist.github.com/mattpolands/99fcc86f2e98a1b6b63d034d4ab72751)
+- [OpenAI - NLP to SQL](https://gist.github.com/mattpolands/9c50a0349b417b15116be0d198533acb)
+- [OpenAI - Auto Exam Generator](https://gist.github.com/mattpolands/b67ed3ac726ef47fb53c83d6456bd5cb)
+
+---
 ### My Notes
 -[Geospatial Data in Python](PDFs of my notes/Working with Geospatial Data in Python.pdf)   
 -[Extreme Gradient Boosting with XGBoost](PDFs of my notes/Extreme Gradient Boosting with XGBoost.pdf)  
@@ -62,19 +78,6 @@
 -[Odds Ratio](PDFs of my notes/Odds Ratio.pdf)  
 -[Confidence Intervals](PDFs of my notes/Confidence Intervals.pdf)  
 -[Rsquared](PDFs of my notes/Rsquared.pdf) 
-
----
-
-### My Resume
-
-[Matthew Poland's Resume](Portfolio Resume.pdf)
-
----
-
-### Additional Work
-
-- [Gists](https://gist.github.com/mattpolands)
-- [Feature Engineering](https://gist.github.com/mattpolands/59580bee362ff640c8856e56d7cc732a)
 
 ---
 
