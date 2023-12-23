@@ -68,6 +68,8 @@
 
 ---
 ### My Notes
+- [NannyML](PDFs of my notes/Monitoring Machine Learning in Python.pdf)
+- [Machine Learning Monitoring Concepts](PDFs of my notes/Machine Learning Monitoring Concepts.pdf)
 - [Geospatial Data in Python](PDFs of my notes/Working with Geospatial Data in Python.pdf)   
 - [Extreme Gradient Boosting with XGBoost](PDFs of my notes/Extreme Gradient Boosting with XGBoost.pdf)  
 - [Cluster Analysis in Python](PDFs of my notes/Cluster Analysis in Python.pdf)   
@@ -112,7 +114,7 @@
 [Data Scientist with Python](Certifications/Data Scientist with Python.pdf)  
 [Python for Data Science and Machine Learning](Certifications/Python for Data Science with Pierian.pdf)  
 [Data Analyst with Python](Certifications/certificate.pdf)  
-[Complete SQL](Certifications/Complete SQL.pdf)
+[Complete SQL](Certifications/Complete SQL.pdf)  
 [Math for Data Science Masterclass](Certifications/Matt for Data Science.pdf)  
 
 
