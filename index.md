@@ -45,7 +45,7 @@
 <img src="images/Neural Net png.png?raw=true" width="100" height="100"/><br>
 
 [Diabetes with forward feed neural network](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)  
-[Classic MNIST Image Processing with Tensorflow](https://gist.github.com/mattpolands/19a0e2baba1d3d585a29c01d47b64274)
+[Classic MNIST Image Processing with Tensorflow](https://gist.github.com/mattpolands/19a0e2baba1d3d585a29c01d47b64274)  
 [MNIST with CNN and RMSProp](https://gist.github.com/mattpolands/a89b80118372c7e40a003de53a109a5a)
 
 ---
@@ -68,6 +68,8 @@
 
 ---
 ### My Notes
+- [RNA-Seq with Bioconductor in R](PDFs of my notes/RNA-Seq with Bioconductor in R.pdf)  
+- [Bioconductor](PDFs of my notes/Bioconductor.pdf)  
 - [NannyML](PDFs of my notes/Monitoring Machine Learning in Python.pdf)
 - [Machine Learning Monitoring Concepts](PDFs of my notes/Machine Learning Monitoring Concepts.pdf)
 - [Geospatial Data in Python](PDFs of my notes/Working with Geospatial Data in Python.pdf)   
