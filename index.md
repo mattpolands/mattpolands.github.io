@@ -68,6 +68,7 @@
 
 ---
 ### My Notes
+- [DE Analysis with limma in R](PDFs of my notes/Differential Expression Analysis with Limma in R.pdf)  
 - [RNA-Seq with Bioconductor in R](PDFs of my notes/RNA-Seq with Bioconductor in R.pdf)  
 - [Bioconductor](PDFs of my notes/Bioconductor.pdf)  
 - [NannyML](PDFs of my notes/Monitoring Machine Learning in Python.pdf)
