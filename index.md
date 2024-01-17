@@ -68,6 +68,7 @@
 
 ---
 ### My Notes
+- [ChIP-seq with Bioconductor in R](PDFs of my notes/ChIP-seq with Bioconductor in R.pdf)  
 - [DE Analysis with limma in R](PDFs of my notes/Differential Expression Analysis with Limma in R.pdf)  
 - [RNA-Seq with Bioconductor in R](PDFs of my notes/RNA-Seq with Bioconductor in R.pdf)  
 - [Bioconductor](PDFs of my notes/Bioconductor.pdf)  
@@ -113,6 +114,7 @@
 
 ---
 ### Certifications
+[Analyzing Genomic Data in R](Certifications/Analyzing Genomic Data in R.pdf)  
 [Practical Apache Pulsar Application Development](Certifications/Stream Native DEV-200 Certificate.pdf)  
 [Data Scientist with Python](Certifications/Data Scientist with Python.pdf)  
 [Python for Data Science and Machine Learning](Certifications/Python for Data Science with Pierian.pdf)  
