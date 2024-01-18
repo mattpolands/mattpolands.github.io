@@ -14,6 +14,12 @@
 
 ---
 
+### Bioinformatics
+
+[DE Analysis of Breast Cancer VDX Data Using Limma Package](BreastCA DE Analysis.ipynb - Colaboratory.pdf)
+
+---
+
 ### Prediction Models
 #### Regression
 <img src="images/Linearreg%20png.png?raw=true" width="100" height="100"/><br>
