@@ -115,10 +115,6 @@
 - [Rsquared](PDFs of my notes/Rsquared.pdf) 
 
 ---
-### My Resume
-[Resume](Matthew Poland's Data Science Resume.pdf)
-
----
 ### Certifications
 [Analyzing Genomic Data in R](Certifications/Analyzing Genomic Data in R.pdf)  
 [Practical Apache Pulsar Application Development](Certifications/Stream Native DEV-200 Certificate.pdf)  
