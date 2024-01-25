@@ -16,7 +16,8 @@
 
 ### Bioinformatics
 
-[DE Analysis of Breast Cancer VDX Data Using Limma Package](BreastCA DE Analysis.ipynb - Colaboratory.pdf)
+- [DE Analysis of Breast Cancer VDX Data Using Limma Package](BreastCA DE Analysis.ipynb - Colaboratory.pdf)  
+- [DE Analysis of AML, ALL, CML Data with Limma](DEanalysisleukemiasEset.ipynb - Colaboratory.pdf)
 
 ---
 
@@ -24,35 +25,35 @@
 #### Regression
 <img src="images/Linearreg%20png.png?raw=true" width="100" height="100"/><br>
 
-[Housing Data with linear model using scikit](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)  
-[Housing Data with Keras](https://gist.github.com/mattpolands/846a338e2d705baeac3346ce8dae73e3)  
-[Advertising Data with logistic model using scikit](https://gist.github.com/mattpolands/6125d2ca2d324888142d2f21f130bc64)  
-[Ecommerce with linear model using scikit](https://gist.github.com/mattpolands/39f9a2489abf04c8419c28579042852e)
+- [Housing Data with linear model using scikit](https://gist.github.com/mattpolands/2c3c31751aed43f4987c8ddbd4e56aa7)  
+- [Housing Data with Keras](https://gist.github.com/mattpolands/846a338e2d705baeac3346ce8dae73e3)  
+- [Advertising Data with logistic model using scikit](https://gist.github.com/mattpolands/6125d2ca2d324888142d2f21f130bc64)  
+- [Ecommerce with linear model using scikit](https://gist.github.com/mattpolands/39f9a2489abf04c8419c28579042852e)
 
 ---
 #### Classification
 <img src="images/Classification png.png?raw=true" width="100" height="100"/><br>
 
-[Cancer Data with Keras](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)  
-[Breast Cancer Data with SVM using scikit](https://gist.github.com/mattpolands/a857b23805e38bfd67fd94dda10723d1)  
-[Kyphosis Data with decision trees and random forest using scikit](https://gist.github.com/mattpolands/b2910bd33579b213de2f9a9673321e36)  
-[Loan Data with decision trees and random forest using scikit](https://gist.github.com/mattpolands/13fa7d2d8e6195c41ee9b29cef2897dd)
+- [Cancer Data with Keras](https://gist.github.com/mattpolands/203cfb84bf68aa6fe16beafbba74c863)  
+- [Breast Cancer Data with SVM using scikit](https://gist.github.com/mattpolands/a857b23805e38bfd67fd94dda10723d1)  
+- [Kyphosis Data with decision trees and random forest using scikit](https://gist.github.com/mattpolands/b2910bd33579b213de2f9a9673321e36)  
+- [Loan Data with decision trees and random forest using scikit](https://gist.github.com/mattpolands/13fa7d2d8e6195c41ee9b29cef2897dd)
 
 ---
 #### Clustering
 <img src="images/Clustering png.png?raw=true" width="100" height="100"/><br>
 
-[Breast Cancer Data with PCA using scikit](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)    
-[Subjective Target Class Find with KNN using scikit](https://gist.github.com/mattpolands/cd3339d0a503d53a2d5c1d4c6b131405)  
-[Easy Make_blobs with Kmeans using scikit](https://gist.github.com/mattpolands/032a504e81265bc03d665d07aed3f0b6)  
+- [Breast Cancer Data with PCA using scikit](https://gist.github.com/mattpolands/30d4b3f44610b2f78cf31d8bbf2dd073)    
+- [Subjective Target Class Find with KNN using scikit](https://gist.github.com/mattpolands/cd3339d0a503d53a2d5c1d4c6b131405)  
+- [Easy Make_blobs with Kmeans using scikit](https://gist.github.com/mattpolands/032a504e81265bc03d665d07aed3f0b6)  
 
 ---
 #### Neural Networks
 <img src="images/Neural Net png.png?raw=true" width="100" height="100"/><br>
 
-[Diabetes with forward feed neural network](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)  
-[Classic MNIST Image Processing with Tensorflow](https://gist.github.com/mattpolands/19a0e2baba1d3d585a29c01d47b64274)  
-[MNIST with CNN and RMSProp](https://gist.github.com/mattpolands/a89b80118372c7e40a003de53a109a5a)
+- [Diabetes with forward feed neural network](https://gist.github.com/mattpolands/e1564fbefaec696cd31e0ec06d8ed08b)  
+- [Classic MNIST Image Processing with Tensorflow](https://gist.github.com/mattpolands/19a0e2baba1d3d585a29c01d47b64274)  
+- [MNIST with CNN and RMSProp](https://gist.github.com/mattpolands/a89b80118372c7e40a003de53a109a5a)
 
 ---
 
@@ -116,13 +117,17 @@
 
 ---
 ### Certifications
-[Analyzing Genomic Data in R](Certifications/Analyzing Genomic Data in R.pdf)  
-[Practical Apache Pulsar Application Development](Certifications/Stream Native DEV-200 Certificate.pdf)  
-[Data Scientist with Python](Certifications/Data Scientist with Python.pdf)  
-[Python for Data Science and Machine Learning](Certifications/Python for Data Science with Pierian.pdf)  
-[Data Analyst with Python](Certifications/certificate.pdf)  
-[Complete SQL](Certifications/Complete SQL.pdf)  
-[Math for Data Science Masterclass](Certifications/Matt for Data Science.pdf)  
+- [Analyzing Genomic Data in R](Certifications/Analyzing Genomic Data in R.pdf)  
+- [Practical Apache Pulsar Application Development](Certifications/Stream Native DEV-200 Certificate.pdf)  
+- [Data Scientist with Python](Certifications/Data Scientist with Python.pdf)  
+- [Python for Data Science and Machine Learning](Certifications/Python for Data Science with Pierian.pdf)  
+- [Data Analyst with Python](Certifications/certificate.pdf)  
+- [Complete SQL](Certifications/Complete SQL.pdf)  
+- [Math for Data Science Masterclass](Certifications/Matt for Data Science.pdf)
+
+---
+### Resume
+[My Resume](General Data Science Resume.pdf)
 
 
 
