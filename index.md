@@ -127,10 +127,6 @@
 - [Math for Data Science Masterclass](Certifications/Matt for Data Science.pdf)
 
 ---
-### Resume
-[My Resume](General Data Science Resume.pdf)
-
-
 
 
 
